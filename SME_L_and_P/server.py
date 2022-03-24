@@ -82,4 +82,4 @@ server = ModularServer(
     "SME Competition Simulation",
     model_params,
 )
-server.port = 8000
+server.port = 4200

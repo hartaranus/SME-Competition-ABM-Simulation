@@ -1,1 +1,1 @@
-web: mesa runserver
+web: mesa runserver -p=$PORT
